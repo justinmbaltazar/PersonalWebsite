@@ -1,2 +1,2 @@
 # PersonalWebsite
-https://justinmbaltazar.com
+https://www.justinmbaltazar.com
