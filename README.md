@@ -8,7 +8,7 @@
 
 ### Description
 
-Welcome to my personal website repository! This website is built with HTML, CSS, and JavaScript. This website serves as an online portfolio and a way for me to share information about myself and my work. It features a home page, an about page, a projects page, and a contact page.
+Welcome to my personal website repository! This website is built with HTML, CSS, and JavaScript and hosted on GitHub pages. This website serves as an online portfolio and a way for me to share information about myself and my work. It features a home page, an about page, a projects page, and a contact page.
 
 ## Features
 
